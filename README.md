@@ -1,6 +1,6 @@
 # API RD Station Python
 
-Este repositório contém um conjunto de ferramentas e scripts para interagir com a API da RD Station, uma plataforma amplamente utilizada para automação de marketing, integração de dados e gerenciamento de leads. Com estas ferramentas, você pode facilmente criar, atualizar e gerenciar contatos na sua conta da RD Station.
+API da RD Station, uma plataforma amplamente utilizada para automação de marketing, integração de dados e gerenciamento de leads. Com estas ferramentas, você pode facilmente criar, atualizar e gerenciar contatos na sua conta da RD Station.
 
 ## Pré-requisitos
 
